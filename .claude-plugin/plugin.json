@@ -1,0 +1,10 @@
+{
+  "name": "imagen-4",
+  "version": "0.2.1",
+  "description": "RunAPI Imagen 4 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/imagen-4/SKILL.md"
+    }
+  ]
+}
