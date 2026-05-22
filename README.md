@@ -1,6 +1,23 @@
-# Imagen 4 API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/imagen-4">
+    <h3 align="center">Imagen 4 API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Imagen 4 fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/imagen-4.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/imagen-4"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/imagen-4-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/imagen-4)](https://skills.sh/runapi-ai/imagen-4)
+
+</div>
+<br/>
 
 Generate images with Imagen 4, Imagen 4 Fast, Ultra, and Pro image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Imagen 4 through RunAPI.
 
