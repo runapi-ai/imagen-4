@@ -4,6 +4,17 @@ description: Generate images with Imagen 4 text-to-image and pro image-to-image 
 documentation: https://runapi.ai/models/imagen-4
 provider_page: https://runapi.ai/providers/google
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/imagen-4
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 # @runapi.ai/imagen-4
 

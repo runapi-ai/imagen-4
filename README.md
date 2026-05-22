@@ -1,5 +1,7 @@
 # Imagen 4 API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/imagen-4)](https://skills.sh/runapi-ai/imagen-4)
+
 Generate images with Imagen 4, Imagen 4 Fast, Ultra, and Pro image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Imagen 4 through RunAPI.
 
 The canonical agent file is `skills/imagen-4/SKILL.md`.
